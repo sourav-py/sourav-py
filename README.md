@@ -13,7 +13,6 @@ I'm a passionate developer with a love for coding, creativity, and all things te
 - 🌱 I'm constantly learning and improving my skills.
 - 💬 Let's connect and collaborate on interesting ideas.
 - 📫 Reach me at imsrv2k@gmail.com.
-- ⚡ Fun fact: I'm a fan of [Your Favorite Tech or Hobby]! 🎮
 
 Looking forward to connecting with fellow developers, sharing knowledge, and building amazing things together. Let's code and create! ✨
 
