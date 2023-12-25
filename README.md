@@ -1,18 +1,13 @@
-## Hello, I'm Sourav 👋
+### Hey there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/sourav-py?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/maroonspider?label=Follow&style=social)
+I'm sourav, I like to solve problems and write code.
 
-📧 Contact me: imsrvk@gmail.com
+#### 👨‍💻 Recently working on following repositories
+- [texter: backend](https://github.com/sourav-py/texter_backend) - Back-end codebase (Django) for the web-sockets based chat application that I am currently working on.
+- [texter: frontend](https://github.com/sourav-py/texter_frontend) - Front-end codebase (React) for the web-sockets based chat application that I am currently working on.
 
-I'm a passionate developer with a love for coding, creativity, and all things tech. 👨‍💻
-
-🌟 Here's a bit about me:
-
-- 🔭 I'm currently working on exciting web development projects.
-- 🌱 I'm constantly learning and improving my skills.
-- 💬 Let's connect and collaborate on interesting ideas.
-- 📫 Reach me at imsrv2k@gmail.com.
+#### 📃🧵 Threads (twitter)
+- [django-channels/redis](https://twitter.com/maroonspider/status/1733844857318199611) 
 
 Looking forward to connecting with fellow developers, sharing knowledge, and building amazing things together. Let's code and create! ✨
 
