@@ -2,7 +2,8 @@
 
 I'm sourav, I like to solve problems and write code.
 
-#### 👨‍💻 Recently working on following repositories
+#### 👨‍💻 Currently working on following repositories
+- [sourav-py/nextlog](https://github.com/sourav-py/nextlog) - Python logging library with async dispatch to monitoring services like Loki.
 - [sourav-py/texter_backend](https://github.com/sourav-py/texter_backend) - Back-end codebase (Django) for the web-sockets based chat application that I am currently working on.
 - [sourav-py/texter_frontend](https://github.com/sourav-py/texter_frontend) - Front-end codebase (React) for the web-sockets based chat application that I am currently working on.
 
