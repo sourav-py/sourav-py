@@ -9,6 +9,7 @@ I'm sourav, I like to solve problems and write code.
 
 #### 👨‍💻 Past projects
 - [vishaldhull09/codechella_twender](https://github.com/vishaldhull09/codechella_twender) - Sentiment analysis on twitter data using tweepy library, presented using flask and html/css.
+- [sourav-py/attendance-dashboard](https://github.com/sourav-py/attendance-dashboard) - An attendance portal to update attendance via CSV file or API endpoint (For automated attendance marking clients).
 
 #### 📃🧵 Threads (twitter)
 - [django-channels/redis](https://twitter.com/maroonspider/status/1733844857318199611) 
