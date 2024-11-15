@@ -9,7 +9,10 @@ I'm sourav, I like to solve problems and write code.
 
 #### 👨‍💻 Past projects
 - [vishaldhull09/codechella_twender](https://github.com/vishaldhull09/codechella_twender) 
-- [sourav-py/attendance-dashboard](https://github.com/sourav-py/attendance-dashboard) 
+- [sourav-py/attendance-dashboard](https://github.com/sourav-py/attendance-dashboard)
+
+#### 🧰 Utilities
+- [sourav-py/nvim](https://github.com/sourav-py/nvim) 
 
 #### 📗👓 Learning/Practice
 - [sourav-py/langchain_lab](https://github.com/sourav-py/langchain_lab)
