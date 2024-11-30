@@ -14,9 +14,6 @@ I'm sourav, I like to solve problems and write code.
 #### 🧰 Utilities
 - [sourav-py/nvim](https://github.com/sourav-py/nvim) 
 
-#### 📗👓 Learning/Practice
-- [sourav-py/langchain_lab](https://github.com/sourav-py/langchain_lab)
-
 Looking forward to connecting with fellow developers, sharing knowledge, and building amazing things together. Let's code and create! ✨
 
 
